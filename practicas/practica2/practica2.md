@@ -8,7 +8,7 @@
 
 Lo primero que hemos hecho es probar el funcionamiento de copia de archivos mediante ssh, como podemos ver en la siguiente imagen:
 
-![im1] (/practicas/practica2/captura/im1.png)
+![im1] (/practicas/practica2/capturas/im1.png)
 
 **2. Rsync**
 
@@ -23,7 +23,7 @@ Comprobamos que se muestra en la segunda máquina el fichero creado como prueba 
 Después borramos y de nuevo ejecutamos rsync para probar que la opción --delete funciona
 Comprobamos que se ha borrado correctamente en el clonado de la segunda máquina. En la siguiente captura podemos ver ambas ejecuciones de rsync.	
 
-![im2] (/practicas/practica2/captura/im2.png)
+![im2] (/practicas/practica2/capturas/im2.png)
 
 Añadir que si no nos deja por ssh acceder como root tendremos que darle permisos de la siguiente forma, editar el fichero que se encuentra en 
 */etc/ssh/sshd_config* 
@@ -45,7 +45,7 @@ Y probamos si no nos pide la contraseña.
 
 Ya no nos pide la contraseña como podemos ver en la siguiente captura:
 		
-![im3] (/practicas/practica2/captura/im3.png)
+![im3] (/practicas/practica2/capturas/im3.png)
 
 **4. Establecer una tarea**
 
@@ -62,4 +62,4 @@ añadimos la siguiente línea:
 
 Quedaría el archivo en nuestro caso de la siguiente forma:
 
-![im4] (/practicas/practica2/captura/im4.png)
+![im4] (/practicas/practica2/capturas/im4.png)
