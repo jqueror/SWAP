@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>¿Qué es un balanceador de carga?:</enunciado>
+  <opcionA>Es un puente entre la red y los servidores finales.</opcionA>
+  <opcionB>Puede manejar los protocolos de alto nivel y de nivel de red.</opcionB>
+  <opcionC>Ambas opciones son ciertas.</opcionC>
+  <opcionD>Ninguna opción es correcta.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Cuál es un algoritmo de balanceo de cargas?:</enunciado>
+  <opcionA>Balanceo basado en ponderación.</opcionA>
+  <opcionB>Balanceo basado en prioridad.</opcionB>
+  <opcionC>Balanceo basado en turnos (round-robin).</opcionC>
+  <opcionD>Todas las opciones son ciertas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
