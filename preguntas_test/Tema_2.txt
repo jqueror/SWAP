@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>Cuando un sitio no está disponible se dice que se ha caído, ¿Qué tipo de no-disponibilidad existe?:</enunciado>
+  <opcionA>No-disponibilidad programada.</opcionA>
+  <opcionB>No-disponibilidad no programada.</opcionB>
+  <opcionC>Las dos anteriores.</opcionC>
+  <opcionD>Ninguna opción es correcta.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Qué niveles deben de tener redundancia a la hora del diseño para una alta disponibilidad de la red?:</enunciado>
+  <opcionA>Conexión a Internet.</opcionA>
+  <opcionB>Routers/cortafuegos/balanceadores.</opcionB>
+  <opcionC>Servidores.</opcionC>
+  <opcionD>Las tres opciones anteriores son ciertas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
