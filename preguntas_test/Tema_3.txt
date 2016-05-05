@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>¿Cuál es el modelo más adecuado para configurar una zona segura?:</enunciado>
+  <opcionA>Configuración sin DMZ.</opcionA>
+  <opcionB>Configuración de DMZ doble.</opcionB>
+  <opcionC>Configuración de DMZ tradicional.</opcionC>
+  <opcionD>Configuración de DMZ simple.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿De qué factor depende la conexión a internet para asegurar la calidad del servicio y la seguridad?:</enunciado>
+  <opcionA>Calidad del servicio y ancho de banda.</opcionA>
+  <opcionB>Filtrado y bloqueo de paquetes.</opcionB>
+  <opcionC>Network address translation (NAT).</opcionC>
+  <opcionD>Todas las anteriores.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
