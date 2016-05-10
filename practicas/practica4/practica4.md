@@ -84,7 +84,7 @@ Podemos decir que pound es de los tres balanceadores usados en la práctica el má
 En la siguiente imagen mostramos las gráficas donde se ven comparadas las medias de time, taken per tests y request per second de las tres
 tablas anteriores.
 
-![gra1] /practicas/practica4/capturas/gra1.png)
+![gra1] (/practicas/practica4/capturas/gra1.png)
 
 En esta primera gráfica no hemos mostrado failed request por ser siempre 0 en todas las mediciones.
 
