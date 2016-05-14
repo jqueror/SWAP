@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>¿Cuál de las siguientes son métricas para medir las prestaciones de los dispositivos de balanceo?:</enunciado>
+  <opcionA>Conexiones por segundo.</opcionA>
+  <opcionB>Número total de conexiones concurrentes.</opcionB>
+  <opcionC>Rendimiento.</opcionC>
+  <opcionD>Todas las opciones son correctas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Qué se usa para no colapsar el servidor, ya que provee control de congestión?:</enunciado>
+  <opcionA>TBC.</opcionA>
+  <opcionB>UDB.</opcionB>
+  <opcionC>TCP.</opcionC>
+  <opcionD>ABC.</opcionD>
+  <solucion>C</solucion>
+</pregunta>
