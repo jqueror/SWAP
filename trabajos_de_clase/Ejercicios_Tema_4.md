@@ -16,7 +16,7 @@ granja web del mercado. No he llegado a encontrar nada similar.
 ###Ejercicio T4.6. Buscar información sobre los bloques de IP para los distintos países o continentes. 
 Implementar en JavaScript o PHP la detección de la zona desde donde se conecta un usuario.
 
-En esta pagina (https://www.countryipblocks.net/allocation-of-ip-addresses-by-country.php) tenemos los 246 paises con sus 
+En esta pagina (https://www.countryipblocks.net/allocation-of-ip-addresses-by-country.php) tenemos los 246 países con sus 
 números de IPs asignadas para cada uno. Hay un total de 4,294,967,296 direcciones IP en el mundo. 
 Para implementar la detección de la zona desde donde se conecta un usuario necesitamos una base de datos, que la podemos descargar 
 de aquí: http://chir.ag/projects/geoiploc/ y con un script que haga uso de ella podemos detectar de que país proviene esa dirección IP.

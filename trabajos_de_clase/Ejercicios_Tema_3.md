@@ -14,5 +14,5 @@ En Windows podemos configurarlo en el panel de control > Entorno de red.
 ###Ejercicio T3.2. Buscar con qué órdenes de terminal o herramientas gráficas podemos configurar bajo Windows y bajo Linux el filtrado
 y bloqueo de paquetes.
 
-Bajo Linux se hace a través de iptables y en Windows se puede hacer a escbribiendo wf.msc por el terminal, que nos llevará 
-al firewall de windows con seguiridad avanzada, donde podremos cambiar los valore que deseemos. 
+Bajo Linux se hace a través de iptables y en Windows se puede hacer escribiendo wf.msc por el terminal, que nos llevará 
+al firewall de windows con seguridad avanzada, donde podremos cambiar los valore que deseemos. 
