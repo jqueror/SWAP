@@ -10,8 +10,7 @@ Realizan una serie de peticiones para comprobar el rendimiento del balanceador y
 otras nos pueden indicar el número de conexiones por segundo, el número de fallos, etc.
 
 
-###Ejercicio T5.3. Buscar información sobre características, disponibilidad para diversos SO, etc de herramientas para monitorizar las
-prestaciones de un servidor.
+###Ejercicio T5.3. Buscar información sobre características, disponibilidad para diversos SO, etc de herramientas para monitorizar las prestaciones de un servidor.
 
 Para Windows Server 2008 por ejemplo podemos usar la herramienta Monitor de Confiabilidad y Rendimiento que trae el propio sistema 
 operativo. Podemos monitorizar las bases de datos, caché, colas de solicitud de servicio HTTP, la interfaz de red, etc.

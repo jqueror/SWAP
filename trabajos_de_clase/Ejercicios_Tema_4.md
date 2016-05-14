@@ -3,8 +3,7 @@ Servidores Web de Altas Prestaciones.						 Javier Quero Ruiz
 
 ###Ejercicios Tema 4
 
-###Ejercicio T4.1. Buscar información sobre cuánto costaría en la actualidad un mainframe. Comparar precio y potencia entre esa
-máquina y una granja web de unas prestaciones similares. 
+###Ejercicio T4.1. Buscar información sobre cuánto costaría en la actualidad un mainframe. Comparar precio y potencia entre esa máquina y una granja web de unas prestaciones similares. 
   
 He buscado información sobre el mainframe de IBM z13, sacado por IBM al principio de 2015. Es el primer mainframe capaz de procesar 
 2500 millones de transacciones al día, no han revelado el precio, aunque sus antecesores estaban entre 75.000$ y 2m$. Según algunos 
@@ -13,8 +12,7 @@ Los precios de las granjas web son más asequibles, pero no he podido comparar ni
 granja web del mercado. No he llegado a encontrar nada similar.
 
 
-###Ejercicio T4.6. Buscar información sobre los bloques de IP para los distintos países o continentes. 
-Implementar en JavaScript o PHP la detección de la zona desde donde se conecta un usuario.
+###Ejercicio T4.6. Buscar información sobre los bloques de IP para los distintos países o continentes. Implementar en JavaScript o PHP la detección de la zona desde donde se conecta un usuario.
 
 En esta pagina (https://www.countryipblocks.net/allocation-of-ip-addresses-by-country.php) tenemos los 246 países con sus 
 números de IPs asignadas para cada uno. Hay un total de 4,294,967,296 direcciones IP en el mundo. 
