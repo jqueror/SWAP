@@ -1,10 +1,9 @@
 Servidores Web de Altas Prestaciones.						 Javier Quero Ruiz
 
 
-Ejercicios Tema 2
+###Ejercicios Tema 2
 
-
-Ejercicio T2.1. Calcular la disponibilidad del sistema si tenemos dos réplicas de cada elemento (en total 3 elementos en cada subsistema). 
+###Ejercicio T2.1. Calcular la disponibilidad del sistema si tenemos dos réplicas de cada elemento (en total 3 elementos en cada subsistema). 
 
 	  
 Original			
@@ -43,7 +42,7 @@ ISP 		99,9875%
 La disponibilidad del sistema será: 99,198%.
 
 
-Ejercicio T2.2. Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. 
+###Ejercicio T2.2. Buscar frameworks y librerías para diferentes lenguajes que permitan hacer aplicaciones altamente disponibles con relativa facilidad. 
 
 - Strongloop: es el más popular framework de código abierto para Node.js.
 
@@ -54,7 +53,7 @@ Ejercicio T2.2. Buscar frameworks y librerías para diferentes lenguajes que perm
 - Linux-HA: proyecto que mantiene un conjunto de bloques para sistemas de cluster de alta disponibilidad para Linux.
 
 
-Ejercicio T2.3. ¿Cómo analizar el nivel de carga de uno de los subsistemas en el servidor? 
+###Ejercicio T2.3. ¿Cómo analizar el nivel de carga de uno de los subsistemas en el servidor? 
 
 Hay muchas herramientas que permiten analizar el nivel de carga de los subsistemas como ya vimos en Ingeniería de Servidores.  Algunos de ellos son: 
 
@@ -70,7 +69,7 @@ Hay muchas herramientas que permiten analizar el nivel de carga de los subsistem
 
 En prácticas vimos algunos más como Munin, Nagios o Ganglia. 
 
-Ejercicio T2.4. Buscar ejemplos de balanceadores software y hardware (productos comerciales). Buscar productos para servidores de aplicaciones y para servidores de almacenamiento. 
+###Ejercicio T2.4. Buscar ejemplos de balanceadores software y hardware (productos comerciales). Buscar productos para servidores de aplicaciones y para servidores de almacenamiento. 
 
 Algunos ejemplos de balanceadores software y hardware son:
 
