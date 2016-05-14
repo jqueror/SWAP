@@ -37,7 +37,7 @@ Tu dirección IP es: <?php echo($ip); ?> <br>
 Tu País es : <?php echo(getCountryFromIP($ip, " NamE"));?>
  (<?php echo(getCountryFromIP($ip, "code"));?>)
 
-***No lo he realizado yo, está sacado de la página web: https://norfipc.com/codigos/como-saber-pais-corresponde-direccion-ip-internet.php
+**No lo he realizado yo, está sacado de la página web:** https://norfipc.com/codigos/como-saber-pais-corresponde-direccion-ip-internet.php
 
 
 
