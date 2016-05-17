@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>Los objetivos de seguridad se bansan en:</enunciado>
+  <opcionA>Confidencialidad.</opcionA>
+  <opcionB>Integridad.</opcionB>
+  <opcionC>Disponibilidad.</opcionC>
+  <opcionD>Todas las opciones son correctas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Todos los mensajes que entran y salen del sistema pasan por el cortafuegos?:</enunciado>
+  <opcionA>Solo los mensajes que entran.</opcionA>
+  <opcionB>Sí, todos.</opcionB>
+  <opcionC>No, ninguno.</opcionC>
+  <opcionD>Depende de la importancia del mensaje.</opcionD>
+  <solucion>B</solucion>
+</pregunta>
