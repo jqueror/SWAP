@@ -1,0 +1,17 @@
+<pregunta>
+  <enunciado>¿Cómo podemos mejorar las prestaciones de los sitemas de almacenamiento?:</enunciado>
+  <opcionA>Ampliación vertical.</opcionA>
+  <opcionB>Ampliación horizontal.</opcionB>
+  <opcionC>Ampliación diagonal.</opcionC>
+  <opcionD>Las respuestas A y B son correctas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
+
+<pregunta>
+  <enunciado>¿Cuál es un nivel de RAID?:</enunciado>
+  <opcionA>RAID 0.</opcionA>
+  <opcionB>RAID 1.</opcionB>
+  <opcionC>RAID 5.</opcionC>
+  <opcionD>Todas las opciones son correctas.</opcionD>
+  <solucion>D</solucion>
+</pregunta>
