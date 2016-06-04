@@ -112,7 +112,7 @@ De nuevo lo buscamos e instalamos en google play como los dos servidores anterio
 Recién instalado nos salen varios mensajes avisándonos de que una versión de prueba. Vamos a mostrar algunas capturas de sus funcionalidades o 
 de la multitud de herramientas con las que puede llegar a trabajar. 
 
-![im16] (/trabajo/capturas/im16.png
+![im16] (/trabajo/capturas/im16.png)
 
 ![im17] (/trabajo/capturas/im17.png)
 
