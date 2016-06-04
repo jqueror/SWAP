@@ -184,7 +184,7 @@ o que daban tan poca información que no se podían usar.
 SimpleHttpServer -> tan simple que no sabías donde meter los ficheros para leerlos y nada de información extra.
 HSP -> No tenía mala pinta en un principio pero no funcionaba.
 
-###5.CONCLUSIONES.
+###5. Conclusiones.
 
 Actualmente buscando web server en play store salen muchas opciones, nosotros hemos probado tres. La primera, Palapa Web Server, es una opción muy completa 
 y totalmente gratuita, la segunda, kWS, mucho más simple, sin una gran interfaz pero también gratuita y la tercera, KSWEB, también una opción muy completa 
