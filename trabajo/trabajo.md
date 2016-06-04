@@ -3,7 +3,7 @@
 ## José Antonio Larrubia García
 ## Javier Quero Ruíz
 
-Hemos instalado tres servidores web en un móvil con sistema operativo Android para compara su comportamiento, todos ellos
+Hemos instalado tres servidores web en un móvil con sistema operativo Android para comparar su comportamiento, todos ellos
 disponibles en google play.
 Los tres servidores han sido: Palapa Web Server, kWS y KSWEB. Ambos tienen cuatro estrellas en google play, 
 posteriormente nosotros daremos nuestro punto de vista. 
