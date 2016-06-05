@@ -5,9 +5,9 @@
 
 Hemos instalado tres servidores web en un móvil con sistema operativo Android para comparar su comportamiento, todos ellos
 disponibles en google play.
-Los tres servidores han sido: Palapa Web Server, kWS y KSWEB. Ambos tienen cuatro estrellas en google play, 
+Los tres servidores han sido: Palapa Web Server, kWS y KSWEB. Todos tienen cuatro estrellas en google play, 
 posteriormente nosotros daremos nuestro punto de vista. 
-Los dos primeros son gratuitos y el tercero de es pago aunque dan 5 días de prueba. 
+Los dos primeros son gratuitos y el tercero es de pago aunque dan 5 días de prueba. 
 
 ###1. Palapa Web Server.
 
